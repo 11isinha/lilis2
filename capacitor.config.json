@@ -1,5 +1,5 @@
 {
-  "appId": "com.liisrecipes.receitas",
-  "appName": "Lili's Recipes",
-  "webDir": "www"
+  "appId": "com.lilis.recipes",
+  "appName": "Lilis Recipes",
+  "webDir": "dist"
 }
