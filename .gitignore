@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+# Variáveis locais: nunca enviar credenciais ao GitHub
+.env
+.env.*
+!.env.example
